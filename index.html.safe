@@ -10,13 +10,13 @@ font-family: Candara, Oswald;
 img {
 display: block;
 margin: 0 auto;
-width: 100%;
+width: 25%;
 }
 </style>
 </head>
 <body>
 <p>Will you be my valentine???</p>
-<img src="https://tenor.com/view/puss-in-boots-cat-cute-kitty-begging-gif-17660640">
+<img src="https://media.tenor.com/zGm5acSjHCIAAAAM/cat-begging.gif">
 </body>
 <title>Botões</title>
 <style>
